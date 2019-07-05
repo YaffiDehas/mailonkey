@@ -1,0 +1,63 @@
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\Dal.dll.config
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\Dal.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\Dal.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\EntityFramework.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\EntityFramework.xml
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\obj\Debug\Dal.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\obj\Debug\Dal.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\Newtonsoft.Json.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Web.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Web.Http.dll
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\Newtonsoft.Json.xml
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Web.Http.xml
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+Y:\group 2 תשעט\דה האס יפי\Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\Server\Dal\bin\Debug\Dal.dll.config
+D:\Server\Dal\bin\Debug\Dal.dll
+D:\Server\Dal\bin\Debug\Dal.pdb
+D:\Server\Dal\bin\Debug\EntityFramework.dll
+D:\Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Server\Dal\bin\Debug\Newtonsoft.Json.dll
+D:\Server\Dal\bin\Debug\System.Net.Http.Formatting.dll
+D:\Server\Dal\bin\Debug\System.Web.Cors.dll
+D:\Server\Dal\bin\Debug\System.Web.Http.Cors.dll
+D:\Server\Dal\bin\Debug\System.Web.Http.dll
+D:\Server\Dal\bin\Debug\EntityFramework.xml
+D:\Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Server\Dal\bin\Debug\Newtonsoft.Json.xml
+D:\Server\Dal\bin\Debug\System.Net.Http.Formatting.xml
+D:\Server\Dal\bin\Debug\System.Web.Http.xml
+D:\Server\Dal\bin\Debug\System.Web.Http.Cors.xml
+D:\Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\Server\Dal\obj\Debug\Dal.dll
+D:\Server\Dal\obj\Debug\Dal.pdb
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\Dal.dll.config
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\Dal.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\Dal.pdb
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\EntityFramework.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\Newtonsoft.Json.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Web.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Web.Http.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\EntityFramework.xml
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\Newtonsoft.Json.xml
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Web.Http.xml
+Y:\group 2 תשעט\קציר שרי\Server\Dal\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\קציר שרי\Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\קציר שרי\Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\Dal\obj\Debug\Dal.dll
+Y:\group 2 תשעט\קציר שרי\Server\Dal\obj\Debug\Dal.pdb
+Y:\group 2 תשעט\קציר שרי\Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache

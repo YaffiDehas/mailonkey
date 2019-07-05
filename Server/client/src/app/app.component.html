@@ -1,0 +1,40 @@
+<nav mat-tab-nav-bar [backgroundColor]="background">
+        <a mat-tab-link [routerLink]="['/about']">About</a>
+        <a mat-tab-link [routerLink]="['/help']">Help</a>
+        <a class="nav-link" [routerLink]="['/login']">Login</a>
+        <a class="nav-link" [routerLink]="['/register']">Logup</a>
+    </nav>
+
+    <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" [routerLink]="['/about']">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink]="['/help']">Help</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink]="['/login']">Login</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink]="['/register']">Logup</a>
+            </li>
+          </ul>
+
+<div class="pos-f-t">
+        <div class="collapse" id="navbarToggleExternalContent">
+          <div class="bg-dark p-4">
+            <h4 class="text-white">Collapsed content</h4>
+            <span class="text-muted">Toggleable via the navbar brand.</span>
+            <a [routerLink]="['/about']">About</a>
+            <a  [routerLink]="['/help']">Help</a>
+          </div>
+       
+        </div>
+        <nav class="navbar navbar-dark bg-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </nav>
+      </div>
+      <router-outlet></router-outlet>
+      <app-download>הורדות</app-download>

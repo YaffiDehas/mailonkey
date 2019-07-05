@@ -1,0 +1,13 @@
+<form (ngSubmit)="onlogin()" #taskform="ngForm">
+ <label>mail </label>
+ <input type="email"
+  required pattern="^\w+([\.-]?\w+)*@gmail.com$"  name="mail"[(ngModel)]="user.mail">
+  <label>passward</label>
+ <input type="password"  name="password" [(ngModel)]="user.password"> 
+
+ <button name="submit" type="submit"[disabled]="!taskform.form.valid"  >submit</button>
+
+  </form>
+ 
+<!-- "/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@gmail.com$/" -->
+<!-- \w+([\.-]?\w+)*(\.\w{2,3})+ -->

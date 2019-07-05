@@ -1,0 +1,349 @@
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\API.dll.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\API.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\API.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\csc.exe
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\csc.exe.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\csc.rsp
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\csi.exe
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\csi.exe.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\csi.rsp
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.AppContext.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Console.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.IO.Compression.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.IO.Pipes.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.Claims.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.ValueTuple.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Xml.XPath.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\vbc.exe
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\vbc.exe.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\vbc.rsp
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\VBCSCompiler.exe
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Antlr3.Runtime.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\BLL.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Dal.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\DTO.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.Web.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.ApplicationInsights.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Newtonsoft.Json.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Helpers.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Http.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Http.WebHost.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Mvc.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Optimization.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Razor.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.WebPages.Deployment.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.WebPages.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.WebPages.Razor.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\WebGrease.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\EntityFramework.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\BLL.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\BLL.dll.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Dal.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Dal.dll.config
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\DTO.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Newtonsoft.Json.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Helpers.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Http.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Http.WebHost.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Mvc.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Optimization.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Razor.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.WebPages.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.WebPages.Deployment.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.WebPages.Razor.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Antlr3.Runtime.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.AI.Web.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\EntityFramework.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\obj\Debug\API.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\obj\Debug\API.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\obj\Debug\API.csprojAssemblyReference.cache
+Y:\group 2 תשעט\דה האס יפי\Server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\דה האס יפי\Server\API\obj\Debug\API.csproj.CopyComplete
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\MailKit.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\MimeKit.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\BouncyCastle.Crypto.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\MailKit.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\MimeKit.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\EntityFramework.SqlServer.dll
+Y:\group 2 תשעט\דה האס יפי\Server\API\bin\EntityFramework.SqlServer.xml
+Y:\group 2 תשעט\דה האס יפי\Server\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\Server\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\Server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\Server\API\obj\Debug\API.dll
+D:\Server\API\obj\Debug\API.pdb
+D:\Server\API\bin\API.dll.config
+D:\Server\API\bin\API.dll
+D:\Server\API\bin\API.pdb
+D:\Server\API\bin\roslyn\csc.exe
+D:\Server\API\bin\roslyn\csc.exe.config
+D:\Server\API\bin\roslyn\csc.rsp
+D:\Server\API\bin\roslyn\csi.exe
+D:\Server\API\bin\roslyn\csi.exe.config
+D:\Server\API\bin\roslyn\csi.rsp
+D:\Server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Server\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Server\API\bin\roslyn\System.AppContext.dll
+D:\Server\API\bin\roslyn\System.Collections.Immutable.dll
+D:\Server\API\bin\roslyn\System.Console.dll
+D:\Server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Server\API\bin\roslyn\System.IO.Compression.dll
+D:\Server\API\bin\roslyn\System.IO.FileSystem.dll
+D:\Server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Server\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Server\API\bin\roslyn\System.IO.Pipes.dll
+D:\Server\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Server\API\bin\roslyn\System.Security.AccessControl.dll
+D:\Server\API\bin\roslyn\System.Security.Claims.dll
+D:\Server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Server\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Server\API\bin\roslyn\System.ValueTuple.dll
+D:\Server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Server\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Server\API\bin\roslyn\System.Xml.XPath.dll
+D:\Server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Server\API\bin\roslyn\vbc.exe
+D:\Server\API\bin\roslyn\vbc.exe.config
+D:\Server\API\bin\roslyn\vbc.rsp
+D:\Server\API\bin\roslyn\VBCSCompiler.exe
+D:\Server\API\bin\roslyn\VBCSCompiler.exe.config
+D:\Server\API\bin\Antlr3.Runtime.dll
+D:\Server\API\bin\BLL.dll
+D:\Server\API\bin\BouncyCastle.Crypto.dll
+D:\Server\API\bin\Dal.dll
+D:\Server\API\bin\DTO.dll
+D:\Server\API\bin\EntityFramework.dll
+D:\Server\API\bin\EntityFramework.SqlServer.dll
+D:\Server\API\bin\MailKit.dll
+D:\Server\API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Server\API\bin\Microsoft.AI.DependencyCollector.dll
+D:\Server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Server\API\bin\Microsoft.AI.Web.dll
+D:\Server\API\bin\Microsoft.AI.WindowsServer.dll
+D:\Server\API\bin\Microsoft.ApplicationInsights.dll
+D:\Server\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Server\API\bin\Microsoft.Web.Infrastructure.dll
+D:\Server\API\bin\MimeKit.dll
+D:\Server\API\bin\Newtonsoft.Json.dll
+D:\Server\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Server\API\bin\System.Net.Http.Formatting.dll
+D:\Server\API\bin\System.Web.Cors.dll
+D:\Server\API\bin\System.Web.Helpers.dll
+D:\Server\API\bin\System.Web.Http.Cors.dll
+D:\Server\API\bin\System.Web.Http.dll
+D:\Server\API\bin\System.Web.Http.WebHost.dll
+D:\Server\API\bin\System.Web.Mvc.dll
+D:\Server\API\bin\System.Web.Optimization.dll
+D:\Server\API\bin\System.Web.Razor.dll
+D:\Server\API\bin\System.Web.WebPages.Deployment.dll
+D:\Server\API\bin\System.Web.WebPages.dll
+D:\Server\API\bin\System.Web.WebPages.Razor.dll
+D:\Server\API\bin\WebGrease.dll
+D:\Server\API\bin\BLL.pdb
+D:\Server\API\bin\BLL.dll.config
+D:\Server\API\bin\Dal.pdb
+D:\Server\API\bin\Dal.dll.config
+D:\Server\API\bin\DTO.pdb
+D:\Server\API\bin\EntityFramework.xml
+D:\Server\API\bin\EntityFramework.SqlServer.xml
+D:\Server\API\bin\MailKit.xml
+D:\Server\API\bin\MimeKit.xml
+D:\Server\API\bin\System.Net.Http.Formatting.xml
+D:\Server\API\bin\System.Web.Http.xml
+D:\Server\API\bin\System.Web.Http.Cors.xml
+D:\Server\API\bin\Newtonsoft.Json.xml
+D:\Server\API\bin\System.Web.Helpers.xml
+D:\Server\API\bin\System.Web.Http.WebHost.xml
+D:\Server\API\bin\System.Web.Mvc.xml
+D:\Server\API\bin\System.Web.Optimization.xml
+D:\Server\API\bin\System.Web.Razor.xml
+D:\Server\API\bin\System.Web.WebPages.xml
+D:\Server\API\bin\System.Web.WebPages.Deployment.xml
+D:\Server\API\bin\System.Web.WebPages.Razor.xml
+D:\Server\API\bin\Antlr3.Runtime.pdb
+D:\Server\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Server\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Server\API\bin\Microsoft.AI.DependencyCollector.xml
+D:\Server\API\bin\Microsoft.AI.WindowsServer.xml
+D:\Server\API\bin\Microsoft.AI.Web.xml
+D:\Server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Server\API\obj\Debug\API.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\API.dll.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\API.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\API.pdb
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\csc.exe
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\csc.exe.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\csc.rsp
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\csi.exe
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\csi.exe.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\csi.rsp
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.AppContext.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Console.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.IO.Compression.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.IO.Pipes.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.Claims.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.ValueTuple.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Xml.XPath.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\vbc.exe
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\vbc.exe.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\vbc.rsp
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\VBCSCompiler.exe
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Antlr3.Runtime.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\BLL.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\BouncyCastle.Crypto.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Dal.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\DTO.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\EntityFramework.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\EntityFramework.SqlServer.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\MailKit.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.Web.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.ApplicationInsights.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\MimeKit.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Newtonsoft.Json.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Helpers.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Http.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Http.WebHost.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Mvc.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Optimization.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Razor.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.WebPages.Deployment.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.WebPages.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.WebPages.Razor.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\WebGrease.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\BLL.pdb
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\BLL.dll.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Dal.pdb
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Dal.dll.config
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\DTO.pdb
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\EntityFramework.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\EntityFramework.SqlServer.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\MailKit.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\MimeKit.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Http.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Newtonsoft.Json.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Helpers.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Http.WebHost.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Mvc.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Optimization.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.Razor.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.WebPages.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.WebPages.Deployment.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Web.WebPages.Razor.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Antlr3.Runtime.pdb
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.AI.Web.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 2 תשעט\קציר שרי\Server\API\obj\Debug\API.csprojAssemblyReference.cache
+Y:\group 2 תשעט\קציר שרי\Server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\קציר שרי\Server\API\obj\Debug\API.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\API\obj\Debug\API.dll
+Y:\group 2 תשעט\קציר שרי\Server\API\obj\Debug\API.pdb

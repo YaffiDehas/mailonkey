@@ -1,0 +1,38 @@
+<div class="wrapper">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2000px-Google_2015_logo.svg.png" alt="Google Logo">
+	<h1 class="titles"> Sign in	</h1>
+  <p>to continue to Gmail</p>
+
+	<form (ngSubmit)="onlogin()" #taskform="ngForm" id="loginForm">
+    
+    <div class="animate-label">
+      <input type="text" id="username" required pattern="^\w+([\.-]?\w+)*@gmail.com$" [(ngModel)]="user.mail"  name="mail"/>
+      <label for="username"> Email or phone </label>
+      
+    </div>
+
+    <div class="animate-label">
+		  <input type="password" id="password" name="password" required [(ngModel)]="user.password"/>
+      <label for="password"> Password </label>
+     
+    </div>
+    
+		<a href="#"> Forgot Password? </a>
+    
+    <div class="flex">
+      <a [routerLink]="['/register']"> Create new account</a>
+      <button name="submit" type="submit" [disabled]="!taskform.form.valid">  NEXT </button>
+    </div>
+    
+  </form>
+</div>
+<!-- <form (ngSubmit)="onlogin()" #taskform="ngForm">
+  <label>mail </label>
+  <input type="email"
+   required pattern="^\w+([\.-]?\w+)*@gmail.com$"  name="mail"[(ngModel)]="user.mail">
+   <label>passward</label>
+  <input type="password"  name="password" [(ngModel)]="user.password"> 
+ 
+  <button name="submit" type="submit"[disabled]="!taskform.form.valid"  >submit</button>
+ 
+   </form> -->

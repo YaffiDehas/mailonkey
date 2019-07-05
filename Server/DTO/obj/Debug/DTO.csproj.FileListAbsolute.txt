@@ -1,0 +1,49 @@
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\DTO.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\DTO.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\obj\Debug\DTO.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\obj\Debug\DTO.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\Newtonsoft.Json.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Web.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Web.Http.dll
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\Newtonsoft.Json.xml
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Web.Http.xml
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\group 2 תשעט\דה האס יפי\Server\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Server\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Server\DTO\obj\Debug\DTO.dll
+D:\Server\DTO\obj\Debug\DTO.pdb
+D:\Server\DTO\bin\Debug\DTO.dll
+D:\Server\DTO\bin\Debug\DTO.pdb
+D:\Server\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\Server\DTO\bin\Debug\System.Net.Http.Formatting.dll
+D:\Server\DTO\bin\Debug\System.Web.Cors.dll
+D:\Server\DTO\bin\Debug\System.Web.Http.Cors.dll
+D:\Server\DTO\bin\Debug\System.Web.Http.dll
+D:\Server\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\Server\DTO\bin\Debug\System.Net.Http.Formatting.xml
+D:\Server\DTO\bin\Debug\System.Web.Http.xml
+D:\Server\DTO\bin\Debug\System.Web.Http.Cors.xml
+D:\Server\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\DTO.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\DTO.pdb
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\Newtonsoft.Json.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Web.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Web.Http.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\Newtonsoft.Json.xml
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Web.Http.xml
+Y:\group 2 תשעט\קציר שרי\Server\DTO\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\קציר שרי\Server\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\group 2 תשעט\קציר שרי\Server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\קציר שרי\Server\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\DTO\obj\Debug\DTO.dll
+Y:\group 2 תשעט\קציר שרי\Server\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,32 @@
+<p>
+  preview-details works!
+</p>
+<!-- <form name="form"> -->
+  <!-- <input [(ngModel)]="user.mail" type="mail" name="mail" > -->
+   <!-- <input [(ngModel)]="user.password" type="password" name="password" />  -->
+    <!-- <input type="checkbox" [(ngModel)]="user.attachment" name="attachments"/>
+    <input type="checkbox" [(ngModel)]="user.preference" name="preferences"/>
+    <input type="checkbox" [(ngModel)]="user.override" name="overide"/> -->
+<!-- </form>
+<mat-form-field>
+  <mat-label>בחר אופציה:</mat-label>
+  <select matNativeControl required>
+    <option value="volvo" (click)="openPerferncesList()">מועדפים</option>
+    <option value="saab" (click)="openPerferncesList()">דחויים</option>
+    <option value="mercedes" (click)="openPerferncesList()">אינני מעונין</option>
+  </select>
+</mat-form-field> -->
+<mat-form-field>
+  <mat-label>בחר אופציה:</mat-label>
+  <mat-select [(ngModel)]="select" (ngModelChange)="openPerferncesList($event)">
+    <mat-option value="favorites">מועדפים</mat-option>
+    <mat-option value="deferred">דחויים</mat-option>
+     <mat-option value="nothing">אינני מעונין</mat-option>
+  </mat-select>
+</mat-form-field> 
+<ng-container *ngIf="canVisible">
+  <app-perfernces-list></app-perfernces-list>
+</ng-container>
+
+
+

@@ -1,0 +1,20 @@
+<form (ngSubmit)="onRegister()" #taskform="ngForm" id="registerForm">
+    
+  <div class="animate-label">
+    <input type="text" id="username" required pattern="^\w+([\.-]?\w+)*@gmail.com$" [(ngModel)]="user.mail"  name="mail"/>
+    <label for="username"> Email or phone </label>
+    
+  </div>
+
+  <div class="animate-label">
+    <input type="password" id="password" name="password" required [(ngModel)]="user.password"/>
+    <label for="password"> Password </label>
+  </div>
+  <div class="animate-label">
+    <input type="password" id="validationPassword" name="validationPassword" required />
+    <label for="password"> confirm Password? </label> 
+  </div>
+  <div class="flex">
+    <button name="submit" type="submit" [disabled]="!taskform.form.valid">  NEXT </button>
+  </div>
+</form>

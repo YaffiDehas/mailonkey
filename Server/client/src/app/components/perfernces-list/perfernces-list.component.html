@@ -1,0 +1,22 @@
+<mat-form-field class="example-full-width">
+    <input matInput placeholder="Enter Email" name="input1"   [(ngModel)]="input1">
+  </mat-form-field >
+<button mat-stroked-button color="primary" (click)="addInputEmail()">Add</button>
+<mat-list>
+    <mat-list-item  *ngFor="let i of userService.currentUser.contact_list"> {{i}} </mat-list-item> 
+</mat-list>
+<input type="submit" value="Save" (click)="saveData()">
+
+<!-- <form class="example-form" #myform="ngForm" (ngSubmit)="saveData(myform)">
+  <mat-form-field class="example-full-width">
+    <input matInput placeholder="Enter Email" #input1="ngModel"  ngModel name="input1">
+  </mat-form-field>
+  <mat-form-field class="example-full-width">
+    <input matInput placeholder="Enter Email"  #input2="ngModel"  ngModel name="input2">
+  </mat-form-field>
+    <mat-form-field class="example-full-width" *ngFor="let i of counter"  >
+    <input matInput placeholder="Enter Email"  name="input3" #input3="ngModel"  ngModel>
+  </mat-form-field >
+  <input type="submit" value="Save">
+  <button mat-stroked-button color="primary" (click)="addInputEmail()">Add</button>
+</form> -->

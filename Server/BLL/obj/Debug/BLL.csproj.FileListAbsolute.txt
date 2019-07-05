@@ -1,0 +1,94 @@
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\BLL.dll.config
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\BLL.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\BLL.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\Dal.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\EntityFramework.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\Dal.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\Dal.dll.config
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\EntityFramework.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\obj\Debug\BLL.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\obj\Debug\BLL.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\DTO.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\DTO.pdb
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\Newtonsoft.Json.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Web.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Web.Http.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\Newtonsoft.Json.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Web.Http.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\BouncyCastle.Crypto.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\MailKit.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\MimeKit.dll
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\MailKit.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\bin\Debug\MimeKit.xml
+Y:\group 2 תשעט\דה האס יפי\Server\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Server\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Server\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Server\BLL\obj\Debug\BLL.dll
+D:\Server\BLL\obj\Debug\BLL.pdb
+D:\Server\BLL\bin\Debug\BLL.dll.config
+D:\Server\BLL\bin\Debug\BLL.dll
+D:\Server\BLL\bin\Debug\BLL.pdb
+D:\Server\BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Server\BLL\bin\Debug\Dal.dll
+D:\Server\BLL\bin\Debug\DTO.dll
+D:\Server\BLL\bin\Debug\EntityFramework.dll
+D:\Server\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Server\BLL\bin\Debug\MailKit.dll
+D:\Server\BLL\bin\Debug\MimeKit.dll
+D:\Server\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Server\BLL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Server\BLL\bin\Debug\System.Web.Cors.dll
+D:\Server\BLL\bin\Debug\System.Web.Http.Cors.dll
+D:\Server\BLL\bin\Debug\System.Web.Http.dll
+D:\Server\BLL\bin\Debug\Dal.pdb
+D:\Server\BLL\bin\Debug\Dal.dll.config
+D:\Server\BLL\bin\Debug\DTO.pdb
+D:\Server\BLL\bin\Debug\EntityFramework.xml
+D:\Server\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Server\BLL\bin\Debug\MailKit.xml
+D:\Server\BLL\bin\Debug\MimeKit.xml
+D:\Server\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Server\BLL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Server\BLL\bin\Debug\System.Web.Http.xml
+D:\Server\BLL\bin\Debug\System.Web.Http.Cors.xml
+D:\Server\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\BLL.dll.config
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\BLL.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\BLL.pdb
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\BouncyCastle.Crypto.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\Dal.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\DTO.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\EntityFramework.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\MailKit.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\MimeKit.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\Newtonsoft.Json.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Web.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Web.Http.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\Dal.pdb
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\Dal.dll.config
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\DTO.pdb
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\EntityFramework.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\MailKit.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\MimeKit.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\Newtonsoft.Json.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Web.Http.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 2 תשעט\קציר שרי\Server\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 2 תשעט\קציר שרי\Server\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 2 תשעט\קציר שרי\Server\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 2 תשעט\קציר שרי\Server\BLL\obj\Debug\BLL.dll
+Y:\group 2 תשעט\קציר שרי\Server\BLL\obj\Debug\BLL.pdb
